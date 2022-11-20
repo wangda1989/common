@@ -1,4 +1,4 @@
-module common
+module github.com/wangda1989/common
 
 go 1.16
 
